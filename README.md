@@ -1,6 +1,5 @@
 # DMN compliant decision tables in Unicode
 
-- [H_000010.uc](./H_000010.uc)
 
 ```text
  ┌───╥─────────────┐
@@ -21,3 +20,4 @@
  │ 7 ║  "Sunday"   │
  └───╨─────────────┘
 ```
+> [H_000010.uc](./H_000010.uc)
