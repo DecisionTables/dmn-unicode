@@ -4,7 +4,7 @@
 
 ## Examples
 
-### No inputs
+#### No inputs
 
 > [H_000010.uc](./H_000010.uc)
 
