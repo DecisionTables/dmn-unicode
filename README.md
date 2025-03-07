@@ -4,6 +4,8 @@
 
 ## Examples
 
+### Rules as rows (horizontal)
+
 #### No inputs
 
 > [H_000010.uc](./H_000010.uc)
@@ -27,3 +29,5 @@
  │ 7 ║  "Sunday"   │
  └───╨─────────────┘
 ```
+
+### Rules as columns (vertical)
