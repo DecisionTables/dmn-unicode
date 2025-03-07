@@ -1,6 +1,6 @@
 # DMN compliant decision tables in Unicode
 
-[H_000010.uc](./H_000010.uc)
+[H_000010.uc](https://github.com/DecisionTables/dmn-unicode/blob/main/H_000010.uc)
 
 ```text
  ┌───╥─────────────┐
