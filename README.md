@@ -30,4 +30,14 @@
  └───╨─────────────┘
 ```
 
+```shell
+$ dsntk edt --unicode I_000010.ctx H_000010.uc
+```
+
+Output:
+
+```text
+["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+```
+
 ### Rules as columns (vertical)
