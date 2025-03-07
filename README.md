@@ -2,6 +2,16 @@
 
 ## Overview
 
+```shell
+$ dsntk --version
+```
+
+Output:
+
+```text
+0.2.0-dev
+```
+
 ## Examples
 
 ### Rules as rows (horizontal)
