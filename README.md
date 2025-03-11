@@ -18,7 +18,7 @@ Output:
 
 #### No inputs
 
-> [H_000010.uc](./H_000010.uc)
+> [H_000010](./H_000010.uni)
 
 ```text
  ┌───╥─────────────┐
@@ -41,7 +41,7 @@ Output:
 ```
 
 ```shell
-$ dsntk edt --unicode I_000010.ctx H_000010.uc
+$ dsntk edt --unicode I_000010.ctx H_000010.uni
 ```
 
 Output:
